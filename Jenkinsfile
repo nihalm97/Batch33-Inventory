@@ -31,14 +31,5 @@ pipeline {
         }
     }
     
-  
-        success {
-            // This block runs when the pipeline is successful
-            echo 'Pipeline successful! Deploy to production if needed.'
-        }
-        
-        
-            
-        }
     }
-}
+
